@@ -27,6 +27,16 @@
 3. Acém moído;
 
 ### Frutas e Verduras
+1. Banana;
+2. Abacate;
+3. Melancia;
+4. Melão;
+5. Manga;
+6. Batata;
+7. Cenoura;
+8. Alface;
+9. Tomate;
+
 
 ### Doces
 
