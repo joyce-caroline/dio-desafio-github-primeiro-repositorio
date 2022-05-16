@@ -22,6 +22,9 @@
 4. Extrato de Tomate;
 
 ### Carnes
+1. Coxa e sobrecoxa de frango;
+2. Pernil suíno em bife;
+3. Acém moído;
 
 ### Frutas e Verduras
 
