@@ -16,6 +16,10 @@
 6. Água sanitária;
 
 ### Enlatados
+1. Milho;
+2. Ervilhas;
+3. Azeitona;
+4. Extrato de Tomate;
 
 ### Carnes
 
