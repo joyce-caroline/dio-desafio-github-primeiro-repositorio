@@ -8,6 +8,12 @@
 5. Creme dental.
 
 ### Limpeza
+1. Sabão em barra;
+2. Sabão líquido;
+3. Detergente;
+4. Desinfetante;
+5. Esponja de aço;
+6. Água sanitária;
 
 ### Enlatados
 
