@@ -1,7 +1,7 @@
 # Repositório do Desafio de Projeto sobre Git e GitHub da DIO
 Este é um desafio de projeto sobre Git e GitHUb proposto durante o Bootcamp Decola Tech 3° ed. da Dio
 <hr>
-Neste pequeno projeto, utilizarei o git de uma maneira bem simples bem simples: em uma lista de compras.
+Neste pequeno projeto, utilizarei o git de uma maneira bem simples: em uma lista de compras.
 
 
 
