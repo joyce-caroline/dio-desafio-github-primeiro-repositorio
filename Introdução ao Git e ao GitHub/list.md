@@ -37,7 +37,11 @@
 8. Alface;
 9. Tomate;
 
-
 ### Doces
+1. Açúcar;
+2. Cacau;
+3. Mel;
+4. Leite condensado;
+5. Sucos;
 
-### Enlatados e condimentos
+### Café da Manhã
