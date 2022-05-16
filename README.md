@@ -10,3 +10,4 @@ Neste pequeno projeto, utilizarei o git de um projeto bem simples: uma lista de 
 
 ### Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Tutorial Git Básico](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao?ppc_campaign=google_performance_max&gclid=CjwKCAjw7IeUBhBbEiwADhiEMTMKreE-wMXqGS4le2snLbL9NDdtTGEQwOzjXaRw3O9kAFqkEzq_HBoCjZ0QAvD_BwE)
