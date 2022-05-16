@@ -45,3 +45,9 @@
 5. Sucos;
 
 ### Café da Manhã
+1. Pão;
+2. Biscoito Cream Cracker
+3. Manteiga;
+4. Tapioca;
+5. Bolo;
+6. Chá de maçã;
